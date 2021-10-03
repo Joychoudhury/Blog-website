@@ -13,7 +13,7 @@ Technical Aspects:
     a)  Creating NEW POSTS using compose page.
     b)  Posting new posts on new page and creating new url for new posts
     c)  Rendering new posts on Home page.
-
+The Blog-website is deployed at : [https://to-do-list-heroku-joy.herokuapp.com/](https://to-do-list-heroku-joy.herokuapp.com/)
 ## Home Page
 <img src="/Working-images/1.png"/>
 
